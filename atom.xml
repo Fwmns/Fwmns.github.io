@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T06:08:18.193Z</updated>
+  <updated>2017-08-28T06:24:38.316Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/28/%E6%9C%80%E6%96%B0%E6%B5%8B%E8%AF%95/"/>
     <id>http://yoursite.com/2017/08/28/最新测试/</id>
     <published>2017-08-28T05:03:21.000Z</published>
-    <updated>2017-08-28T06:08:18.193Z</updated>
+    <updated>2017-08-28T06:24:38.316Z</updated>
     
     <content type="html"><![CDATA[<center><br># <font color="green"><strong>调查策划书</strong></font><br></center>
 
@@ -34,6 +34,9 @@
 </li>
 <li><p>为制定交通规划掌握必要的交通量数据。通过全面了解现状资料，分析交通流量的分配，预测未来的交通量，为确定交通规划、道路网规划、道路技术等级和修建次序及确定规划所需的投资和效益提供依据。</p>
 </li>
+</ul>
+<a id="more"></a>
+<ul>
 <li><br><br><br></li>
 </ul>
 <p><u></u></p>
@@ -116,7 +119,17 @@
     
       &lt;center&gt;&lt;br&gt;# &lt;font color=&quot;green&quot;&gt;&lt;strong&gt;调查策划书&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&lt;/center&gt;
 
-&lt;h3 id=&quot;摘要：&quot;&gt;&lt;a href=&quot;#摘要：&quot; class=&quot;headerlink&quot; title=&quot;摘要：&quot;&gt;&lt;/a
+&lt;h3 id=&quot;摘要：&quot;&gt;&lt;a href=&quot;#摘要：&quot; class=&quot;headerlink&quot; title=&quot;摘要：&quot;&gt;&lt;/a&gt;&lt;strong&gt;摘要&lt;/strong&gt;：&lt;/h3&gt;&lt;p&gt;交通量是描述交通流特性的最重要的参数之一。&lt;br&gt;&lt;br&gt;交通量调查的目的在于通过长期连续的观测或短期间隙和临时观测，搜集交通量资料，了解交通量在时间、空间上的变化和分布规律，为交通规划、道路建设、交通控制与管理、工程经济分析等提供必要的数据。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;交通量调查资料根据不同的目的，有着广泛的应用。如果通过调查观测掌握了一定的交通量数据则可作为必不可少的资料应用于下列各项研究：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;由同一地点长期连续性观测，掌握交通量的时间分布规律，探求各种与交通量有关的系数，并为交通量预测提供以往长期的可靠资料。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;众多的间隙性观测调查，可用以了解交通量在地域等空间上的分布规律，为了解全面的交通情况提供数据。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;为制定交通规划掌握必要的交通量数据。通过全面了解现状资料，分析交通流量的分配，预测未来的交通量，为确定交通规划、道路网规划、道路技术等级和修建次序及确定规划所需的投资和效益提供依据。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
