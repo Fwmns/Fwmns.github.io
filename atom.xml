@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-29T02:02:16.547Z</updated>
+  <updated>2017-08-29T03:51:00.633Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,12 @@
     <link href="http://yoursite.com/2017/08/29/005%20%E4%BD%A0%E8%83%BD%E8%AF%BB%E6%87%82%E6%9C%AA%E7%9F%A5%E7%9A%84%E6%96%87%E7%AB%A0%E5%90%97/"/>
     <id>http://yoursite.com/2017/08/29/005 你能读懂未知的文章吗/</id>
     <published>2017-08-29T01:52:21.000Z</published>
-    <updated>2017-08-29T02:02:16.547Z</updated>
+    <updated>2017-08-29T03:51:00.633Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="《阅读整理术》读书笔记"><a href="#《阅读整理术》读书笔记" class="headerlink" title="《阅读整理术》读书笔记"></a>《阅读整理术》读书笔记</h1><p><strong>摘要</strong>:我们一般理解和采用的阅读方式，是低层次的，最多只能得到与自己生活相近的知识。有关自己完全未知事物的文章，才是真正值得学习的有价值的知识。如果没有丰富的阅读经验，只用这种低层次的阅读技巧，根本无法达到阅读的效果。</p>
-<a id="more"></a>
+    <content type="html"><![CDATA[<a id="more"></a>
+<p>副标题：《阅读整理术》读书笔记</p>
+<p><strong>摘要</strong>:我们一般理解和采用的阅读方式，是低层次的，最多只能得到与自己生活相近的知识。有关自己完全未知事物的文章，才是真正值得学习的有价值的知识。如果没有丰富的阅读经验，只用这种低层次的阅读技巧，根本无法达到阅读的效果。</p>
+<!--more-->
 <h2 id="自我测试"><a href="#自我测试" class="headerlink" title="自我测试"></a>自我测试</h2><ul>
 <li>你有怀疑过自己的阅读能力吗？</li>
 <li>你接受过阅读训练吗？（在学校或其他机构）</li>
@@ -96,7 +98,9 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;《阅读整理术》读书笔记&quot;&gt;&lt;a href=&quot;#《阅读整理术》读书笔记&quot; class=&quot;headerlink&quot; title=&quot;《阅读整理术》读书笔记&quot;&gt;&lt;/a&gt;《阅读整理术》读书笔记&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;摘要&lt;/strong&gt;:我们一般理解和采用的阅读方式，是低层次的，最多只能得到与自己生活相近的知识。有关自己完全未知事物的文章，才是真正值得学习的有价值的知识。如果没有丰富的阅读经验，只用这种低层次的阅读技巧，根本无法达到阅读的效果。&lt;/p&gt;
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;副标题：《阅读整理术》读书笔记&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摘要&lt;/strong&gt;:我们一般理解和采用的阅读方式，是低层次的，最多只能得到与自己生活相近的知识。有关自己完全未知事物的文章，才是真正值得学习的有价值的知识。如果没有丰富的阅
     
     </summary>
     
