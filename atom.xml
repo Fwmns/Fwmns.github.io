@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-30T16:52:16.711Z</updated>
+  <updated>2017-08-30T16:54:12.872Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/31/044%20%E5%B7%A5%E5%85%B7%E7%9A%84%E5%8A%9B%E9%87%8F/"/>
     <id>http://yoursite.com/2017/08/31/044 工具的力量/</id>
     <published>2017-08-30T16:27:16.000Z</published>
-    <updated>2017-08-30T16:52:16.711Z</updated>
+    <updated>2017-08-30T16:54:12.872Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a>
 <p>给大家介绍几款我正在使用的工具。这些工具的使用，会极大降低我们编辑文本的难度，提高工作和学习的效率。这几款工具分别是：Markdown、七牛云以及Adblock Plus。</p>
@@ -70,7 +70,7 @@
 <h2 id="3-编辑器"><a href="#3-编辑器" class="headerlink" title="3. 编辑器"></a>3. 编辑器</h2><p>我使用的Markdown编辑器是MarkdownPad 2。markdown编辑器种类很丰富，可依照自己的喜好去选择。</p>
 <h1 id="二、七牛云"><a href="#二、七牛云" class="headerlink" title="二、七牛云"></a>二、七牛云</h1><p>七牛云存储被我当作图床来使用。使用markdown时，不能直接添加图片，而要引用图片的存储地址。因此，得有一个存储图片的地方。我选择的是七牛云，因为其安全可靠，并且，新申请的账号有10G免费空间可用。</p>
 <h1 id="三、Adblock-Plus"><a href="#三、Adblock-Plus" class="headerlink" title="三、Adblock Plus"></a>三、Adblock Plus</h1><p>Adblock Plus是由弗拉基米尔·帕朗（Wladimir Palant）于2016年开发的一个开源项目。Adblock Plus可屏蔽掉烦人的广告、跟踪、恶意软件及其他你不想在浏览器中看到的东西。</p>
-<p>知道这个软件，源于对垃圾信息的厌恶。由于不堪忍受各类广告等的侵扰，某一天我突然想到，能不能用什么办法屏蔽掉自己不想看的内容。有了这个想法后，我便上网查询。没找多久，就看到了Adblock Plus这么一款插件。看了此软件的说明及别人的介绍后，我终于长舒一口气，认定这就是我要找的的东西。来不及多等，立刻将其装于浏览器中，神奇的事情发生了，那些恼人的广告，再也不见了踪迹。记得当时还专门写了<a href="http://fengwmns.com/2017/08/30/031%20%E5%A6%82%E4%BD%95%E5%85%8D%E5%8F%97%E5%B9%BF%E5%91%8A%E7%9A%84%E4%BE%B5%E8%A2%AD/" target="_blank" rel="external"> 【如何免受广告侵扰之苦】 </a>这么一篇文章来介绍此插件。</p>
+<p>知道这个软件，源于对垃圾信息的厌恶。由于不堪忍受各类广告等的侵扰，某一天我突然想到，能不能用什么办法屏蔽掉自己不想看的内容。有了这个想法后，我便上网查询。没找多久，就看到了Adblock Plus这么一款插件。看了此软件的说明及别人的介绍后，我终于长舒一口气，认定这就是我要找的的东西。来不及多等，立刻将其装于浏览器中，神奇的事情发生了，那些恼人的广告，再也不见了踪迹。记得当时还专门写了<a href="http://mp.weixin.qq.com/s/akTxW7BqVF9FWMK996ze-Q" target="_blank" rel="external"> 【如何免受广告侵扰之苦】 </a>这么一篇文章来介绍此插件。</p>
 <center><br><br><img src="http://oibl1j7v2.bkt.clouddn.com/%E5%B7%A5%E5%85%B7%E7%9A%84%E5%8A%9B%E9%87%8F-04.jpg" alt="工具的力量-04"><br><br></center>
 
 <p>任何人的一天，只有同样的24时，且每个人的注意力均有限。如果你用稀缺的注意力这种资源关注了事物A，势必会减小对事物B的注意力投放。换句话说，如果你在广告等垃圾信息上耗费了稀缺的注意力，则肯定降低你对有用信息的获取。李笑来说过，在我们成长的道路上，有三个隐形的大坑——莫名奇妙凑热闹、心急火燎随大流以及操碎了别人的心肝——很多人都掉入过。屏蔽掉那些无孔不入的垃圾信息，能避免自己掉入这三个大坑，从而让我们在成长的道路上跑的更安全、更持久。</p>
