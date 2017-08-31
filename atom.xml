@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-30T17:10:16.668Z</updated>
+  <updated>2017-08-31T04:01:43.906Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/31/043%20%E5%B7%A5%E5%85%B7%E7%9A%84%E5%8A%9B%E9%87%8F/"/>
     <id>http://yoursite.com/2017/08/31/043 工具的力量/</id>
     <published>2017-08-30T16:27:16.000Z</published>
-    <updated>2017-08-30T17:10:16.668Z</updated>
+    <updated>2017-08-31T04:01:43.906Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a>
 <p>给大家介绍几款我正在使用的工具。这些工具的使用，会极大降低我们编辑文本的难度，提高工作和学习的效率。这几款工具分别是：Markdown、七牛云以及Adblock Plus。</p>
@@ -31,7 +31,8 @@
 <h2 id="2-Markdown部分语法展示"><a href="#2-Markdown部分语法展示" class="headerlink" title="2. Markdown部分语法展示"></a>2. Markdown部分语法展示</h2><h3 id="1）标题"><a href="#1）标题" class="headerlink" title="1）标题"></a>1）标题</h3><p>输入：</p>
 <p># 一级标题<br>## 二级标题<br>### 三级标题<br>#### 四级标题<br><br></p>
 <p>显示：</p>
-<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h3 id="2）列表"><a href="#2）列表" class="headerlink" title="2）列表"></a>2）列表</h3><p>无序列表</p>
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><p><br></p>
+<h3 id="2）列表"><a href="#2）列表" class="headerlink" title="2）列表"></a>2）列表</h3><p>无序列表</p>
 <p>输入：</p>
 <p>- 你<br>- 我<br>- 她<br><br></p>
 <p>显示：</p>
@@ -47,7 +48,7 @@
 <ol>
 <li>你</li>
 <li>我</li>
-<li>她</li>
+<li>她<br><br></li>
 </ol>
 <h3 id="3）引用"><a href="#3）引用" class="headerlink" title="3）引用"></a>3）引用</h3><p>输入：</p>
 <p>> 黑夜给了我黑色的眼睛</p>
@@ -62,7 +63,7 @@
 <p><strong>斜体</strong></p>
 <p>*这是斜体*</p>
 <p><em>这是斜体</em></p>
-<p><strong>粗体</strong></p>
+<p>粗体</p>
 <p>用四个*号包住 我是粗体 这四个字，则显示如下</p>
 <p><strong>这是粗体</strong></p>
 <h3 id="6）分割线"><a href="#6）分割线" class="headerlink" title="6）分割线"></a>6）分割线</h3><p>输入三个 <em>*</em>，则可得到一条分割线。</p>
@@ -93,8 +94,10 @@
     
     </summary>
     
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="技术" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
