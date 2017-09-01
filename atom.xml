@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-01T05:51:40.262Z</updated>
+  <updated>2017-09-01T06:11:52.476Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/09/01/%E6%B5%8B%E8%AF%95/"/>
     <id>http://yoursite.com/2017/09/01/测试/</id>
     <published>2017-09-01T05:43:12.000Z</published>
-    <updated>2017-09-01T05:51:40.262Z</updated>
+    <updated>2017-09-01T06:11:52.476Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a>
 <p>给大家介绍几款我正在使用的工具。这些工具的使用，会极大降低我们编辑文本的难度，提高工作和学习的效率。这几款工具分别是：Markdown、七牛云以及Adblock Plus。</p>
@@ -85,16 +85,10 @@
 <p>自从人类祖先使用了火，整个现代文明的出现才有了可能。也可以说，是火这种工具，给人类带来了繁荣的现代文明。工具的力量，由此可见一斑。</p>
 <p>工具会把人分类，使用不同的工具的人，从某种角度来看，就是不同类的人。拥有先进的工具，会增强我们的力量。懂得选取先进的工具，是一个现代人的生存优势之一。</p>
 <p>文|雾满南山  2017.08.22</p>
-<p><font color="blue"></font></p>
-<center><br><br><strong>结束</strong><br><br><br></center>
+<font color="blue"><br><center><br><br><strong>结束</strong><br><br></center></font><br><br><br># <font class="fen">Update Content</font><br>- <font class="fen">我是谁</font>
 
-
-<h2 id="Update-Content"><a href="#Update-Content" class="headerlink" title="Update Content"></a><label style="text-decoration:underline">Update Content</label></h2><p><span>fdsafdsaffdsa</span> </p>
-<ul>
-<li>2017-08-22 添加adblock plus、markdown语法展示及图片等内容</li>
-<li>2017-08-21 初步写稿</li>
-</ul>
-<label>计算机科学与技术</label><br>#  <label>fdsafdsaf dsafdsafdsafds</label>]]></content>
+<!-- -->
+<div style="background-color:red;" align="center"><br><span style="font-size:30px;" class="fen"><br>总结<br></span><br>fdsafjkfdsa<br></div>]]></content>
     
     <summary type="html">
     
