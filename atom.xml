@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-02T05:11:28.988Z</updated>
+  <updated>2017-09-02T05:19:00.787Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,91 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>最新</title>
-    <link href="http://yoursite.com/2017/09/01/%E6%9C%80%E6%96%B0/"/>
-    <id>http://yoursite.com/2017/09/01/最新/</id>
-    <published>2017-09-01T05:43:12.000Z</published>
-    <updated>2017-09-02T05:11:28.988Z</updated>
-    
-    <content type="html"><![CDATA[<a id="more"></a>
-<p>给大家介绍几款我正在使用的工具。这些工具的使用，会极大降低我们编辑文本的难度，提高工作和学习的效率。这几款工具分别是：Markdown、七牛云以及Adblock Plus。</p>
-<h1 id="一、Markdown"><a href="#一、Markdown" class="headerlink" title="一、Markdown"></a>一、Markdown</h1><h2 id="1-什么是Markdown"><a href="#1-什么是Markdown" class="headerlink" title="1. 什么是Markdown"></a>1. 什么是Markdown</h2><p>Markdown是一种轻量级标记语言。能够很方便的进行文本编辑，相较于Word，其优势明显。markdown语法极容易上手，一个正常人，只要三四分钟的学习，便能够使用markdown语法进行文本的编辑。一旦使用过markdown，你绝对会惊叹于其高效性和简洁性，并会越来越依赖此语法的使用。我就是这样，在使用过后，立刻决定放弃word改用markdown。</p>
-<p>Markdown创始人是约翰·格鲁伯（John Gruber）。约翰·格鲁伯于2004年创造了Markdown语言，有相当大一部分语法是和亚伦·斯沃茨（Aaron Swartz）合作完成。亚伦·斯沃茨于2011年7月19日被指控非法下载大量学术期刊文章，并遭联邦联邦政府起诉被捕，面临巨额罚款。2013年1月11日早晨，他被发现在公寓中自缢身亡，时年26岁。天妒英才。</p>
-<center><br><br><img src="http://oibl1j7v2.bkt.clouddn.com/%E5%B7%A5%E5%85%B7%E7%9A%84%E5%8A%9B%E9%87%8F-01-%E7%BA%A6%E7%BF%B0%C2%B7%E6%A0%BC%E9%B2%81%E4%BC%AF.jpg" alt="工具的力量-约翰·格鲁伯"><br><br>约翰·格鲁伯（John Gruber）<br><br><img src="http://oibl1j7v2.bkt.clouddn.com/%E5%B7%A5%E5%85%B7%E7%9A%84%E5%8A%9B%E9%87%8F-02-%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8.jpg" alt="工具的力量-亚伦·斯沃茨"><br><br>亚伦·斯沃茨（Aaron Swartz）<br><br></center>
-
-<h2 id="2-Markdown部分语法展示"><a href="#2-Markdown部分语法展示" class="headerlink" title="2. Markdown部分语法展示"></a>2. Markdown部分语法展示</h2><h3 id="1）标题"><a href="#1）标题" class="headerlink" title="1）标题"></a>1）标题</h3><p>输入：</p>
-<p># 一级标题<br>## 二级标题<br>### 三级标题<br>#### 四级标题<br><br></p>
-<p>显示：</p>
-<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><p><br></p>
-<h3 id="2）列表"><a href="#2）列表" class="headerlink" title="2）列表"></a>2）列表</h3><p>无序列表</p>
-<p>输入：</p>
-<p>- 你<br>- 我<br>- 她<br><br></p>
-<p>显示：</p>
-<p>你<br>我<br>她</p>
-<p>有序列表</p>
-<p>输入：</p>
-<ol>
-<li>你</li>
-<li>我</li>
-<li>她<br><br></li>
-</ol>
-<p>显示：</p>
-<ol>
-<li>你</li>
-<li>我</li>
-<li>她<br><br></li>
-</ol>
-<h3 id="3）引用"><a href="#3）引用" class="headerlink" title="3）引用"></a>3）引用</h3><p>输入：</p>
-<p>> 黑夜给了我黑色的眼睛</p>
-<p>显示：</p>
-<blockquote>
-<p>黑夜给了我黑色的眼睛</p>
-</blockquote>
-<h3 id="4）图片插入"><a href="#4）图片插入" class="headerlink" title="4）图片插入"></a>4）图片插入</h3><p>语法是这样：![名称]（地址）</p>
-<center><br><img src="http://oibl1j7v2.bkt.clouddn.com/%E5%B7%A5%E5%85%B7%E7%9A%84%E5%8A%9B%E9%87%8F-03.jpg" alt="工具的力量-03"><br></center>
-
-<h3 id="5）粗体和斜体"><a href="#5）粗体和斜体" class="headerlink" title="5）粗体和斜体"></a>5）粗体和斜体</h3><p>用两个包含一段文字，显示为斜体；用四个包含一段文字，显示为粗体</p>
-<p><strong>斜体</strong></p>
-<p>*这是斜体*</p>
-<p><em>这是斜体</em></p>
-<p>粗体</p>
-<p>用四个*号包住 我是粗体 这四个字，则显示如下</p>
-<p><strong>这是粗体</strong></p>
-<h3 id="6）分割线"><a href="#6）分割线" class="headerlink" title="6）分割线"></a>6）分割线</h3><p>输入三个 <em>*</em>，则可得到一条分割线。</p>
-<p>7）其他语法如：代码框、表格等这里不予展示，感兴趣可自行查阅。</p>
-<h2 id="3-编辑器"><a href="#3-编辑器" class="headerlink" title="3. 编辑器"></a>3. 编辑器</h2><p>我使用的Markdown编辑器是MarkdownPad 2。markdown编辑器种类很丰富，可依照自己的喜好去选择。</p>
-<h1 id="二、七牛云"><a href="#二、七牛云" class="headerlink" title="二、七牛云"></a>二、七牛云</h1><font size="50" color="green"><br><br>七牛云存储被我当作图床来使用。使用markdown时，不能直接添加图片，而要引用图片的存储地址。因此，得有一个存储图片的地方。我选择的是七牛云，因为其<strong>安全可靠</strong>，并且，新申请的账号有10G免费空间可用。<br><br></font>
-
-<h1 id="三、Adblock-Plus"><a href="#三、Adblock-Plus" class="headerlink" title="三、Adblock Plus"></a>三、Adblock Plus</h1><font color="red"><br>Adblock Plus是由弗拉基米尔·帕朗（Wladimir Palant）于2016年开发的一个开源项目。Adblock Plus可屏蔽掉烦人的广告、跟踪、恶意软件及其他你不想在浏览器中看到的东西。<br><br></font>
-
-<p>知道这个软件，源于对垃圾信息的厌恶。由于不堪忍受各类广告等的侵扰，某一天我突然想到，能不能用什么办法屏蔽掉自己不想看的内容。有了这个想法后，我便上网查询。没找多久，就看到了Adblock Plus这么一款插件。看了此软件的说明及别人的介绍后，我终于长舒一口气，认定这就是我要找的的东西。来不及多等，立刻将其装于浏览器中，神奇的事情发生了，那些恼人的广告，再也不见了踪迹。记得当时还专门写了<a href="http://mp.weixin.qq.com/s/akTxW7BqVF9FWMK996ze-Q" target="_blank" rel="external"> 【如何免受广告侵扰之苦】 </a>这么一篇文章来介绍此插件。</p>
-<center><br><br><img src="http://oibl1j7v2.bkt.clouddn.com/%E5%B7%A5%E5%85%B7%E7%9A%84%E5%8A%9B%E9%87%8F-04.jpg" alt="工具的力量-04"><br><br></center>
-
-<pre><code>任何人的一天，只有同样的24时，且每个人的注意力均有限。如果你用稀缺的注意力这种资源关注了事物A，势必会减小对事物B的注意力投放。换句话说，如果你在广告等垃圾信息上耗费了稀缺的注意力，则肯定降低你对有用信息的获取。李笑来说过，在我们成长的道路上，有三个隐形的大坑——莫名奇妙凑热闹、心急火燎随大流以及操碎了别人的心肝——很多人都掉入过。屏蔽掉那些无孔不入的垃圾信息，能避免自己掉入这三个大坑，从而让我们在成长的道路上跑的更安全、更持久。    
-</code></pre><center><strong>总结</strong></center>
-
-<p>自从人类祖先使用了火，整个现代文明的出现才有了可能。也可以说，是火这种工具，给人类带来了繁荣的现代文明。工具的力量，由此可见一斑。</p>
-<p>工具会把人分类，使用不同的工具的人，从某种角度来看，就是不同类的人。拥有先进的工具，会增强我们的力量。懂得选取先进的工具，是一个现代人的生存优势之一。</p>
-<h1 id="Update-Record"><a href="#Update-Record" class="headerlink" title="Update Record"></a><font style="border-bottom: 2px solid black;">Update Record</font></h1><!-- 博客中不变-->
-<h1 id="Update-Record-1"><a href="#Update-Record-1" class="headerlink" title="Update Record"></a><font class="fen">Update Record</font></h1>]]></content>
-    
-    <summary type="html">
-    
-      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;给大家介绍几款我正在使用的工具。这些工具的使用，会极大降低我们编辑文本的难度，提高工作和学习的效率。这几款工具分别是：Markdown、七牛云以及Adblock Plus。&lt;/p&gt;
-&lt;h1 id=&quot;一、Markdown&quot;&gt;&lt;a href=
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>工具的力量</title>
     <link href="http://yoursite.com/2017/08/31/043%20%E5%B7%A5%E5%85%B7%E7%9A%84%E5%8A%9B%E9%87%8F/"/>
     <id>http://yoursite.com/2017/08/31/043 工具的力量/</id>
     <published>2017-08-30T16:27:16.000Z</published>
-    <updated>2017-09-01T14:37:51.822Z</updated>
+    <updated>2017-09-02T05:19:00.787Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a>
 <p>给大家介绍几款我正在使用的工具。这些工具的使用，会极大降低我们编辑文本的难度，提高工作和学习的效率。这几款工具分别是：Markdown、七牛云以及Adblock Plus。</p>
@@ -160,7 +80,7 @@
 <p>自从人类祖先使用了火，整个现代文明的出现才有了可能。也可以说，是火这种工具，给人类带来了繁荣的现代文明。工具的力量，由此可见一斑。</p>
 <p>工具会把人分类，使用不同的工具的人，从某种角度来看，就是不同类的人。拥有先进的工具，会增强我们的力量。懂得选取先进的工具，是一个现代人的生存优势之一。</p>
 <p>文|雾满南山  2017.08.22</p>
-<h1 id="Update-Content"><a href="#Update-Content" class="headerlink" title="Update Content"></a><span class="fen">Update Content</span></h1><ul>
+<h1 id="Update-Content"><a href="#Update-Content" class="headerlink" title="Update Content"></a><font style="border-bottom: 2px solid black;">Update Content</font></h1><ul>
 <li>2017-08-22 添加adblock plus、markdown语法展示及图片等内容</li>
 <li>2017-08-21 初步写稿</li>
 </ul>
@@ -971,6 +891,51 @@
       &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;p&gt;正如世界上没有两片相同的树叶一样，世界上也没有两个完全相同的人。&lt;/p&gt;
 &lt;p&gt;是不同，造就了我们的独一无二。但同时，独一无二的我们却可能经常犯着和别人同样的错误，甚至，这样的错误一犯就是很长的时间——数年，甚至数十年，更可怕的是，很多时
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>身边的巨婴</title>
+    <link href="http://yoursite.com/2017/08/30/024%20%E8%BA%AB%E8%BE%B9%E7%9A%84%E5%B7%A8%E5%A9%B4/"/>
+    <id>http://yoursite.com/2017/08/30/024 身边的巨婴/</id>
+    <published>2017-08-30T04:40:29.000Z</published>
+    <updated>2017-08-30T05:05:21.195Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a>
+<h1 id="巨婴"><a href="#巨婴" class="headerlink" title="巨婴"></a>巨婴</h1><p>当成年人的身体里，嵌入了婴儿的心智，这该是怎样一种存在？又该是怎样一种悲哀？</p>
+<p><strong>成年人的身体 + 婴儿的心智 = 巨婴</strong></p>
+<p>巨婴这个词，是由心理学家武志红老师首先提出，专门用来指那些心智不成熟的成年人。中国《民法通则》规定：“18周岁以上的公民是成年人。”凡是满18周岁的公民，不论其性别、精神健康状况如何，均视为成年人。<br><br></p>
+<h1 id="巨婴的特征"><a href="#巨婴的特征" class="headerlink" title="巨婴的特征"></a>巨婴的特征</h1><h2 id="母婴共生"><a href="#母婴共生" class="headerlink" title="母婴共生"></a>母婴共生</h2><p>母婴共生，即母亲与婴儿的共生关系。在这个共生阶段，婴儿的一切全靠母亲来照料，假若在这个阶段让婴儿和母亲分离，婴儿几乎就不能存活。这种共生关系对于一个孩子的人格发展、心理状态、情绪状态和行为模式，起着至关重要、决定性的影响。母亲对孩子的关注，孩子对母亲的信赖，从共生关系理论来看，是一个人一生中一切人际关系发展的基础。</p>
+<p>新闻中时不时会有这样的报道，高中生或大学生除了会学习之后，其它所有的事情基本都不会做，甚至连系鞋带，按天气冷暖增减衣服这种最基本的自我料理都无法完成，而要靠母亲一手包办。在这样的新闻中，反映出的其实是一种病态的共生关系，而新闻中的孩子，其实就是武志红老师定义中的“巨婴”。</p>
+<h2 id="全能自恋"><a href="#全能自恋" class="headerlink" title="全能自恋"></a>全能自恋</h2><p>全能自恋，是每个人在婴儿早期都具备的心理，即，婴儿觉得我是无所不能的，我一动念头，和我完全浑然一体的世界（其实是妈妈或其他养育者）就会按照我的意愿来运转。</p>
+<p>这种现象，在心理学上被称作“巨婴心理”。</p>
+<p>相信你在生活中见到过无数这样的人，他们极端以自我为中心，凡事都要按自己的意愿来办，完全不会顾及别人的感受，甚至，他们从不曾意识到这个世界上还有别人的存在，为所欲为。大多数独生子女多属此类。</p>
+<h2 id="偏执分裂"><a href="#偏执分裂" class="headerlink" title="偏执分裂"></a>偏执分裂</h2><p>偏执分裂是说，极端化的情绪表达。就拿婴儿来说，假如某件事情没能按他的意愿来发展，那么他就选择自我崩溃，嚎啕大哭。</p>
+<p>再来看看身边的成年人，有多少人拥有着极端情绪化、极端偏执、极端分裂的人格。他们不能理性的处理日常事务，但凡事情的发展偏离了他的意愿，其反应完全就是婴儿式的，直接走个极端——自我崩溃。这样的事情在恋爱中特别常见，那些失恋后嚎啕大哭，要死要活，长期无法走出失恋阴影的青年人，从某种程度上来说，完全就是婴儿式的反应。由于他和另一半之间的恋情没有朝着TA的意愿继续发展，因此，TA直接采取了极端化、情绪化的选择，直接自我崩溃，甚至有些更极端的，选择杀死对方或者自杀。<br><br></p>
+<h1 id="巨婴的形成"><a href="#巨婴的形成" class="headerlink" title="巨婴的形成"></a>巨婴的形成</h1><p>心理学家武志红认为，巨婴的出现主要是由于孩子在幼儿阶段，缺乏正确照顾而导致的心理缺失。<br>对婴儿来说，他的全部世界不过是饮食、睡眠、排泄和安抚。若这些需要无法得到父母或他人的准确照顾，婴儿就会产生强烈的无助感，随着婴儿的成长，这种无助感可能会演化成一种心理缺失，从而致使其在今后的生活中停留、再次追求、回到全能自恋的这种婴儿状态。<br><br></p>
+<h1 id="如何摆脱巨婴状态？"><a href="#如何摆脱巨婴状态？" class="headerlink" title="如何摆脱巨婴状态？"></a>如何摆脱巨婴状态？</h1><blockquote>
+<p>爱</p>
+<p>阅读（通过阅读，在理智上通过对自由主义的追逐来摆脱病态集体主义的束缚）</p>
+<p>觉知</p>
+<p>行动</p>
+</blockquote>
+<p>这四个摆脱巨婴状态的方法，来源于罗辑思维，第198期节目【你是巨婴吗】，这四个方法的具体内容，感兴趣的读者朋友可前去罗辑思维观看。</p>
+<center><strong>结语</strong></center>
+
+<p>人生来就是不完美的、残缺的。正如不幸的家庭有各的不幸一样，每个残缺的人也各有各的残缺。面对残缺的自己，无须恐慌，亦无须自暴自弃，拿起书本，付之行动，在阅读和行动中不断修复残缺的自己，以臻于完整，臻于至善。</p>
+<p>文|雾满南山  2016.12.03</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;巨婴&quot;&gt;&lt;a href=&quot;#巨婴&quot; class=&quot;headerlink&quot; title=&quot;巨婴&quot;&gt;&lt;/a&gt;巨婴&lt;/h1&gt;&lt;p&gt;当成年人的身体里，嵌入了婴儿的心智，这该是怎样一种存在？又该是怎样一种悲哀？&lt;/p&gt;
+&lt;p&gt;&lt;stron
     
     </summary>
     
