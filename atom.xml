@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-02T05:04:21.108Z</updated>
+  <updated>2017-09-02T05:11:28.988Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/09/01/%E6%9C%80%E6%96%B0/"/>
     <id>http://yoursite.com/2017/09/01/最新/</id>
     <published>2017-09-01T05:43:12.000Z</published>
-    <updated>2017-09-02T05:04:21.108Z</updated>
+    <updated>2017-09-02T05:11:28.988Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a>
 <p>给大家介绍几款我正在使用的工具。这些工具的使用，会极大降低我们编辑文本的难度，提高工作和学习的效率。这几款工具分别是：Markdown、七牛云以及Adblock Plus。</p>
@@ -81,7 +81,8 @@
 
 <p>自从人类祖先使用了火，整个现代文明的出现才有了可能。也可以说，是火这种工具，给人类带来了繁荣的现代文明。工具的力量，由此可见一斑。</p>
 <p>工具会把人分类，使用不同的工具的人，从某种角度来看，就是不同类的人。拥有先进的工具，会增强我们的力量。懂得选取先进的工具，是一个现代人的生存优势之一。</p>
-<h1 id="Update-Record"><a href="#Update-Record" class="headerlink" title="Update Record"></a><font style="border-bottom: 2px solid red;">Update Record</font></h1>]]></content>
+<h1 id="Update-Record"><a href="#Update-Record" class="headerlink" title="Update Record"></a><font style="border-bottom: 2px solid black;">Update Record</font></h1><!-- 博客中不变-->
+<h1 id="Update-Record-1"><a href="#Update-Record-1" class="headerlink" title="Update Record"></a><font class="fen">Update Record</font></h1>]]></content>
     
     <summary type="html">
     
