@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-02T04:18:34.984Z</updated>
+  <updated>2017-09-02T04:21:44.707Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/09/01/%E6%9C%80%E6%96%B0/"/>
     <id>http://yoursite.com/2017/09/01/最新/</id>
     <published>2017-09-01T05:43:12.000Z</published>
-    <updated>2017-09-02T04:18:34.984Z</updated>
+    <updated>2017-09-02T04:21:44.707Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a>
 <p>给大家介绍几款我正在使用的工具。这些工具的使用，会极大降低我们编辑文本的难度，提高工作和学习的效率。这几款工具分别是：Markdown、七牛云以及Adblock Plus。</p>
@@ -87,7 +87,12 @@
 <p><span class="fen">文|雾满南山  2017.08.22</span></p>
 <font class="fen">Update Content</font>
 
-<font color="blue"><br><center><br><br><strong>结束</strong><br><br></center></font><br><br><br># <font class="fen">Update Record</font>]]></content>
+<font color="blue"><br><br><br>—<br><br># <font class="fen">Update Record</font>
+
+
+<p><span class="fen">zheshiyigeceshi</span></p>
+<p><font class="fen">fdsak</font></p>
+</font>]]></content>
     
     <summary type="html">
     
